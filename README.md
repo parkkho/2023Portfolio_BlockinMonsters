@@ -29,11 +29,11 @@
 
 **2_Enemy 폴더** - 보스몬스터 관련 스크립트
 
--**AttackDefine** - 공격에 관련된 클래스들 모음
--**BossDefine** - 보스몬스터 관련된 공통된 클래스들 모음
--**BossEnemy** - 보스 몬스터의 전반적인 기능 담당
--**Enemy** - 몬스터 전반적인 기능 담당
--**HermitKingBoss,StingBoss** - 게임에 구현된 예시 보스몬스터 패턴 스크립트
+- **AttackDefine** - 공격에 관련된 클래스들 모음
+- **BossDefine** - 보스몬스터 관련된 공통된 클래스들 모음
+- **BossEnemy** - 보스 몬스터의 전반적인 기능 담당
+- **Enemy** - 몬스터 전반적인 기능 담당
+- **HermitKingBoss,StingBoss** - 게임에 구현된 예시 보스몬스터 패턴 스크립트
 
 
 
