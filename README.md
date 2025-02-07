@@ -33,14 +33,14 @@
 - **BossDefine** - 보스몬스터 관련된 공통된 클래스들 모음
 - **BossEnemy** - 보스 몬스터의 전반적인 기능 담당
 - **Enemy** - 몬스터 전반적인 기능 담당
-- **HermitKingBoss,StingBoss** - 게임에 구현된 예시 보스몬스터 패턴 스크립트
+- **HermitKingBoss , StingBoss** - 게임에 구현된 예시 보스몬스터 패턴 스크립트
 
 
 
 ### 📷 이미지
 
 ***
-<img src="https://github.com/user-attachments/assets/8ff88eee-d458-4116-83f3-dc48b53ea96b"  width="20%" height="20%">
+<img src="https://github.com/parkkho/2023Portfolio_BlockinMonsters/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png"  width="20%" height="20%">
 
 
 ### 📹 링크
