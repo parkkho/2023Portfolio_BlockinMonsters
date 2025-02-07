@@ -47,6 +47,8 @@
 
 ***
 **[플레이 영상](https://youtu.be/g7r7xsS7eXA?si=YI8lxogTzGFWESjH)**
+
 **[구글 플레이스토어 링크](https://play.google.com/store/apps/details?id=kr.jhsoft.blockinmonsters&pli=1)**
+
 **[앱 스토어 링크](https://apps.apple.com/kr/app/%EB%B8%94%EB%A1%9C%ED%82%A8-%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%A6%88-%ED%8D%BC%EC%A6%90%EB%94%94%ED%8E%9C%EC%8A%A4/id6472144172)**
  
