@@ -40,7 +40,7 @@
 ### 📷 이미지
 
 ***
-<img src="https://github.com/parkkho/2023Portfolio_BlockinMonsters/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png"  width="20%" height="20%">
+<img src="https://github.com/parkkho/2023Portfolio_BlockinMonsters/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png"  width="50%" height="50%">
 
 
 ### 📹 링크
